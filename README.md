@@ -22,7 +22,10 @@
 > - Builds custom tooling to close detection gaps  
 > - Correlates threats across physical/digital domains  
 
-> **— [Referee Name], 
-Former Senior AML Lead, Wise
-[Current Position], [Company]**  
+> **— [Referee Name],**
+
+> **Former Senior AML Lead, Wise**
+
+> **[Current Position], [Company]**  
+
 > [Contact Details]
