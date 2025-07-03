@@ -3,9 +3,10 @@
 > Mr. Lim demonstrated exceptional **dual-domain expertise** in intelligence operations and engineering:
 
 > **Intelligence Expertise**:  
-> - Applied **military-grade analytical rigor** (ROKAF background) to financial crime/threat detection, correlating OSINT/FININT with transaction patterns  
-> - Developed **cross-domain intelligence frameworks** that linked blockchain risks (Tokenomist experience) to traditional FinCrime vectors  
-> - Excelled at **tactical-to-strategic synthesis**, translating raw threat data into actionable executive briefings  
+> - Applied **military-grade analytical rigor** to threat detection, correlating multiple types of intelligence (e.g., OSINT or FININT)   
+> - Excelled at **tactical-to-strategic synthesis**, translating raw threat data into actionable executive briefings
+> - Developed **cross-domain intelligence frameworks** that linked technical risks to traditional FinCrime vectors 
+
 
 > **Engineering Capabilities (Hardware/Software)**:  
 > - Leveraged **B.Eng hardware knowledge** to assess infrastructure vulnerabilities in payment systems  
